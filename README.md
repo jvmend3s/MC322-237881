@@ -1,2 +1,10 @@
 # MC322-237881
-Lessons repository for MC322 Class
+
+# Aluno
+
+    - João Vitor Mendes - 237881
+
+# Curso
+
+    - Engenharia de Controle e Automação
+
