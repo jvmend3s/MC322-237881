@@ -1,5 +1,5 @@
-#Lab02 - Do C para o Java
+# Lab02 - Do C para o Java
 
-##Notebook sobre estruturas de Java
+## Notebook sobre estruturas de Java
 
-    Coloque um link para o arquivo do notebook com a resolução da primeira tarefa. Ele estará dentro da pasta notebook.
+    https://github.com/jvmend3s/MC322-237881/blob/315ecf90496cbe182ea31dc3e3e739b273f5b57c/lab02/notebook/lab02-java-estruturas-ra237881.ipynb
